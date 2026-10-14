@@ -1,0 +1,14 @@
+.github/workflows/abc-publish.yml
+  h_492b42777c8bc9 99,116,155,165-166,171,175
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "abf9380477d3e6988b020be938f291429e8610b2",
+  "prompts": {},
+  "humans": {
+    "h_492b42777c8bc9": {
+      "author": "Robin <luoweb@users.noreply.github.com>"
+    }
+  }
+}
